@@ -3,14 +3,16 @@ https://www.codefor.de - landing page for germany
 http://guides.codeforaustralia.org/ - Brigade guides from Australia
 http://codeforsanfrancisco.org/beta/ , http://codeforphilly.org - Templates for new Brigade sites
 
-https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/an-introductory-guide-to-open-internet-tools-for-civil-servants - Tool guide for gov employees
-http://civicpatterns.org/ - Patterns to use while building civic tech
-https://slack.com/ - Great chat service for your team.
-https://cartodb.com/ - Powerful mapping service
-https://source.opennews.org/en-US/ - Discussions on journalism tech
-https://morph.io/ - A collection of scrapers
-https://asana.com/, https://trello.com/, http://www.pivotaltracker.com/, http://www.targetprocess.com/ - different project management tools
 http://www.reddit.com/r/civichackers - civic hacking subreddit
 https://hackpad.com/Code-for-All-Tools-and-Tactics-1LbiMvniTDc - protocoll hackpad while meetup July 13, 2014 in Berlin
 https://docs.google.com/document/d/1qNmFNxtdIokBfh_9JcYvrWKSRCAgcqSqeaX4LGm8a-0/edit#heading=h.hylgo2d28584 - (german only) Protokoll vom 12/13 July CodeFor.de Lab-Treffen in Berlin
+
+https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/an-introductory-guide-to-open-internet-tools-for-civil-servants - Tool guide for gov employees
+http://civicpatterns.org/ - Patterns to use while building civic tech
+https://slack.com - Great chat service for your team. (used by the CodeForAmerica (Kansas?))
+https://cartodb.com/ - Powerful mapping service
+https://plot.ly - online analytics and data visualization tool (partner of csvConf.com) (https://en.wikipedia.org/wiki/Plotly)
+http://lab.hakim.se/reveal-js - reveal.js - A framework for easily creating beautiful presentations using HTML. 
+https://source.opennews.org/en-US/ - Discussions on journalism tech
+https://morph.io/ - A collection of scrapers
 http://www.nltk.org - https://en.wikipedia.org/wiki/Natural_Language_Toolkit - language processing tool (used: http://github.com/codeformuenster/wahlprogramm-matrix)
