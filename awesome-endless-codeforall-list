@@ -1,13 +1,23 @@
+general
+=======
 http://www.codeforamerica.org - landing page for united states
 https://www.codefor.de - landing page for germany
 http://guides.codeforaustralia.org/ - Brigade guides from Australia
 http://codeforsanfrancisco.org/beta/ , http://codeforphilly.org - Templates for new Brigade sites
+http://schoolofdata.org/handbook/ - detail and background theory to support the School of Data courses and challenges
 
+
+social
+======
 http://www.reddit.com/r/civichackers - civic hacking subreddit
 https://lists.okfn.org/mailman/listinfo - open knowledge foundation mailing list overview
 https://hackpad.com/Code-for-All-Tools-and-Tactics-1LbiMvniTDc - protocoll hackpad while meetup July 13, 2014 in Berlin
 https://docs.google.com/document/d/1qNmFNxtdIokBfh_9JcYvrWKSRCAgcqSqeaX4LGm8a-0/edit#heading=h.hylgo2d28584 - (german only) Protokoll vom 12/13 July CodeFor.de Lab-Treffen in Berlin
+https://pad.okfn.org/p/Tools_tools_and_more_tools -  Open Knowledge Festival, Berlin, pad of the session "Tools tools and more tools"
 
+
+tools
+=====
 https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/an-introductory-guide-to-open-internet-tools-for-civil-servants - Tool guide for gov employees
 http://civicpatterns.org/ - Patterns to use while building civic tech
 https://slack.com - Great chat service for your team. (used by the CodeForAmerica (Kansas?))
@@ -17,3 +27,5 @@ http://lab.hakim.se/reveal-js - reveal.js - A framework for easily creating beau
 https://source.opennews.org/en-US/ - Discussions on journalism tech
 https://morph.io/ - A collection of scrapers
 http://www.nltk.org - https://en.wikipedia.org/wiki/Natural_Language_Toolkit - language processing tool (used: http://github.com/codeformuenster/wahlprogramm-matrix)
+https://www.import.io - website that extracting tables 
+https://www.kimonolabs.com - turn websites into structured APIs from your browser,  no more scraping
