@@ -20,12 +20,20 @@ tools
 =====
 https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/an-introductory-guide-to-open-internet-tools-for-civil-servants - Tool guide for gov employees
 http://civicpatterns.org/ - Patterns to use while building civic tech
-https://slack.com - Great chat service for your team. (used by the CodeForAmerica (Kansas?))
-https://cartodb.com/ - Powerful mapping service
+https://slack.com - Great chat service for your team. - used by the CodeForAmerica (Kansas?)
+https://cartodb.com/ - Powerful mapping service - via. via: Open Knowledge Festival Berlin and talk @csvConf2014
 https://plot.ly - online analytics and data visualization tool (partner of csvConf.com) (https://en.wikipedia.org/wiki/Plotly)
 http://lab.hakim.se/reveal-js - reveal.js - A framework for easily creating beautiful presentations using HTML. 
 https://source.opennews.org/en-US/ - Discussions on journalism tech
 https://morph.io/ - A collection of scrapers
 http://www.nltk.org - https://en.wikipedia.org/wiki/Natural_Language_Toolkit - language processing tool (used: http://github.com/codeformuenster/wahlprogramm-matrix)
-https://www.import.io - website that extracting tables 
-https://www.kimonolabs.com - turn websites into structured APIs from your browser,  no more scraping
+http://www.alchemyapi.com - for named entitz extraction, natural language processing - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+https://www.import.io - website that extracting tables - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+https://www.kimonolabs.com - turn websites into structured APIs from your browser,  no more scraping - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+https://github.com/propublica/upton - a web scraping framework - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+https://developers.google.com/fusiontables/ - like excel, georeferencing options, visualise on map, can run sql - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+http://openrefine.org - transform data in a couple of steps and the actions are written in javascript so you can use it afterwards - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+http://vis.stanford.edu/wrangler - alternative to open refine - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+http://www.pentaho.de - business annylize and intelligence, has an open source version.  kettle - extract, transform - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+https://www.gnu.org/software/pspp - PSPP - open source version of SPSS - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
+http://tapor.ca - Library of text analysis tools. Visualisation. Mostly used by academics - via: Open Knowledge Festival, Berlin, session "Tools tools and more tools"
